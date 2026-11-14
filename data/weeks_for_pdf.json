@@ -1,0 +1,72 @@
+[
+ {
+  "title": "The Super Storm Week",
+  "range": "8–14 May 2024",
+  "levels": [
+   0,
+   3,
+   3,
+   4,
+   0,
+   2,
+   0
+  ],
+  "key": "X5.8 on 11 May (CME 1,820 km/s, SEP 47 min after peak); X8.7 on 14 May; SEPs on 9, 10, 11 and 13 May"
+ },
+ {
+  "title": "The Giant Flash Week",
+  "range": "3–9 Oct 2024",
+  "levels": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  "key": "X9.0 on 3 Oct (no SEP); X2.1 on 7 Oct; X1.8 on 9 Oct with SEP and CME 2,112 km/s"
+ },
+ {
+  "title": "The Fast Particle Week",
+  "range": "4–10 Sep 2017",
+  "levels": [
+   2,
+   1,
+   4,
+   0,
+   0,
+   0,
+   4
+  ],
+  "key": "X9.3 on 6 Sep (SEP); X8.2 on 10 Sep, SEP 19 min after peak, CME 2,650 km/s"
+ },
+ {
+  "title": "The Surprise Finish Week",
+  "range": "5–11 Nov 2025",
+  "levels": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   4
+  ],
+  "key": "Calm middle, then X1.2 on 10 Nov (SEP) and X5.1 on 11 Nov, SEP 16 min after peak, CME 1,856 km/s"
+ },
+ {
+  "title": "This Month's Sun",
+  "range": "5–11 Nov 2026",
+  "levels": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "key": "Only C and M flares (biggest M3.5), no SEP: a calm week for science"
+ }
+]
